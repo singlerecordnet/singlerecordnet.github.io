@@ -18,13 +18,13 @@ University of Puerto Rico, Mayagüez Campus
 -	Bachelor of Science in Computer Engineering	(2014)
 
 ## Training and Certifications
-- U.S. ARMY Basic Target Digital Network Analyst (TDNA) Fully Qualified, Fort Meade, MD	(2020)
+- U.S. ARMY Fully Qualified as Basic Target Digital Network Analyst, Fort Meade, MD	(2020)
 - Army Analysis and Reporting Course, Goodfellow AFB, San Angelo, TX (2018)
 - Web Development Bootcamp, DevBootcamp, San Francisco, CA (2016)
 
 ## Work History
 
-### TDNA
+### Target Digital Network Analyst at U.S. Army, Fort Meae, Maryland
 - From 2019 to present,
 -	Conducted target development such as open-source research and signals analysis,
 -	Authored and contributed to publishing several reports used by federal organizations,
@@ -32,7 +32,7 @@ University of Puerto Rico, Mayagüez Campus
 -	Used network analysis tools to produce pattern-of-life visualizations,
 -	Collaborated in a joint military environment by developing knowledge management and project communication strategies to overcome workspace restrictions imposed by COVID-19,
 -	Developed browser-based tools to visualize and edit structured data sets (JSON, CSV).
-### Business Intelligence Developer, Wovenware, San Juan, Puerto Rico
+### Business Intelligence Developer as Wovenware, San Juan, Puerto Rico
 - From 2014 up to 2017, spent 6 months between 2015 and 2016 conducting web development bootcamp,
 -	Produced descriptive analytics to display aggregate user information using Qlikview BI software,
 -	Designed query scripts while verifying the data that was produced matched expected results,
