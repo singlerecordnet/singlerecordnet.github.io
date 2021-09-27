@@ -25,7 +25,7 @@ University of Puerto Rico, Mayagüez Campus
 ## Work History
 
 ### TDNA
-- From 2019 to present
+- From 2019 to present,
 -	Conducted target development such as open-source research and signals analysis,
 -	Authored and contributed to publishing several reports used by federal organizations,
 -	Maintained and organized documentation of collected data for presentations,
