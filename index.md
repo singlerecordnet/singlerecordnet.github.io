@@ -7,7 +7,7 @@ Phone: (667) 225-7335
 E-mail: josejuanisaac@gmail.com
 ## Status
 
-US ARMY Active Duty Expected Time of Separation					    17 DEC 2021
+US ARMY Active Duty Expected Time of Separation: 17 December 2021
 ## Summary
 
 Software engineer experienced in database design & maintenance, data analytics & visualizations, and network security analysis. Experienced in conducting research independently to produce reports that directly drive organization goals. Interested in exploring the merger data aggregation design techniques and secure enterprise software development.
