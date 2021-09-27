@@ -1,4 +1,4 @@
-# José J.I. Taveras Lopez
+# José Juan Isaac Taveras Lopez
 
 ## Contact
 
@@ -15,7 +15,7 @@ Software engineer experienced in database design & maintenance, data analytics &
 ## Eucation
 
 University of Puerto Rico, Mayagüez Campus
--	Bachelor of Science in Computer Engineering						     2014
+-	Bachelor of Science in Computer Engineering	(2014)
 
 ## Training and Certifications
 - U.S. ARMY Basic Target Digital Network Analyst (TDNA) Fully Qualified, Fort Meade, MD	(2020)
