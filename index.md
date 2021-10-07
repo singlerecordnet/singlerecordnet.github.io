@@ -24,7 +24,7 @@ University of Puerto Rico, Mayagüez Campus
 
 ## Work History
 
-### Target Digital Network Analyst at U.S. Army, Fort Meae, Maryland
+### Target Digital Network Analyst at U.S. Army, Fort Meade, Maryland
 - From 2019 to present,
 -	Conducted target development such as open-source research and signals analysis,
 -	Authored and contributed to publishing several reports used by federal organizations,
