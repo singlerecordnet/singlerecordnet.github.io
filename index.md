@@ -42,7 +42,7 @@ University of Puerto Rico, Mayagüez Campus
 - Integrated Open Source chat software into underlying system and built custom group management interface,
 - Impelemented payment process flow with local banking provider that used XML SOAP for secure information transfer.
 ## Additional Skills and Proficiencies
--	Font-end: HTML, CSS, JavaScript, Qlikview Dashboards, Excel
+-	Front-end: HTML, CSS, JavaScript, Qlikview Dashboards, Excel
 -	Back-end: PHP, Ruby, Qlikview Script, MySQL
 -	Frameworks: Ruby on Rails, WAMP
 -	Languages: Native Spanish, full English, conversational French and Italian.
