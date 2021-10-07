@@ -33,11 +33,14 @@ University of Puerto Rico, Mayagüez Campus
 -	Collaborated in a joint military environment by developing knowledge management and project communication strategies to overcome workspace restrictions imposed by COVID-19,
 -	Developed browser-based tools to visualize and edit structured data sets (JSON, CSV).
 ### Business Intelligence Developer as Wovenware, San Juan, Puerto Rico
-- From 2014 up to 2017, spent 6 months between 2015 and 2016 conducting web development bootcamp,
+- From 2014 up to 2017, stepped away for 10 months between 2015 and 2016 conducting web development bootcamp,
 -	Produced descriptive analytics to display aggregate user information using Qlikview BI software,
 -	Designed query scripts while verifying the data that was produced matched expected results,
 -	Performed maintenance and optimization on Qlikview backend server.
-
+### Rubric Solution, Manati, Puerto Rico
+- Designed initial SQL ER diagram and implementation using MySQL,
+- Integrated Open Source chat software into underlying system and built custom group management interface,
+- Impelemented payment process flow with local banking provider that used XML SOAP for secure information transfer.
 ## Additional Skills and Proficiencies
 -	Font-end: HTML, CSS, JavaScript, Qlikview Dashboards, Excel
 -	Back-end: PHP, Ruby, Qlikview Script, MySQL
