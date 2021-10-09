@@ -40,7 +40,7 @@ University of Puerto Rico, Mayagüez Campus
 ### Rubric Solution, Manati, Puerto Rico
 - Designed initial SQL ER diagram and implementation using MySQL,
 - Integrated Open Source chat software into underlying system and built custom group management interface,
-- Impelemented payment process flow with local banking provider that used XML SOAP for secure information transfer.
+- Implemented payment process flow with local banking provider that used XML SOAP for secure information transfer.
 ## Additional Skills and Proficiencies
 -	Front-end: HTML, CSS, JavaScript, Qlikview Dashboards, Excel
 -	Back-end: PHP, Ruby, Qlikview Script, MySQL
