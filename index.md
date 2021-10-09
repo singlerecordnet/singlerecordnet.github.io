@@ -38,6 +38,7 @@ University of Puerto Rico, Mayagüez Campus
 -	Designed query scripts while verifying the data that was produced matched expected results,
 -	Performed maintenance and optimization on Qlikview backend server.
 ### Rubric Solution, Manati, Puerto Rico
+- Provided project-based development from 2010 to 2015,
 - Designed initial SQL ER diagram and implementation using MySQL,
 - Integrated Open Source chat software into underlying system and built custom group management interface,
 - Implemented payment process flow with local banking provider that used XML SOAP for secure information transfer.
