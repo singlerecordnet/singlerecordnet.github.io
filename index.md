@@ -1,9 +1,5 @@
 # José Juan Isaac Taveras Lopez
 
-## Contact
-
-Phone: (667) 225-7335
-
 E-mail: josejuanisaac@gmail.com
 ## Status
 
