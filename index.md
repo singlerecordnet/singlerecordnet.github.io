@@ -1,9 +1,6 @@
 # José Juan Isaac Taveras Lopez
 
 E-mail: josejuanisaac@gmail.com
-## Status
-
-US ARMY Active Duty Expected Time of Separation: 17 December 2021
 ## Summary
 
 Software engineer experienced in database design & maintenance, data analytics & visualizations. Experienced in conducting research independently to produce reports that directly drive organization goals. Interested in exploring the merger data aggregation design techniques and secure enterprise software development.
@@ -21,7 +18,7 @@ University of Puerto Rico, Mayagüez Campus
 ## Work History
 
 ### Target Digital Network Analyst at U.S. Army, Fort Meade, Maryland
-- From 2019 to present,
+- From 2019 to December 2021,
 -	Conducted target development such as open-source research and signals analysis,
 -	Authored and contributed to publishing several reports used by federal organizations,
 -	Maintained and organized documentation of collected data for presentations,
