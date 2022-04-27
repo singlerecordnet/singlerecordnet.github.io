@@ -3,7 +3,7 @@
 E-mail: josejuanisaac@gmail.com
 ## Summary
 
-Software engineer experienced in database design & maintenance, data analytics & visualizations. Experienced in conducting research independently to produce reports that directly drive organization goals. Interested in exploring the merger data aggregation design techniques and secure enterprise software development.
+Software engineer experienced in database design & maintenance, data analytics & visualizations, and network security analysis. Personal philosophy centers around conducting localized research in order to produce reports that directly drive organization goals and improve operational processes. Interested in exploring the merger data aggregation design techniques and secure enterprise software development.
 
 ## Education
 
