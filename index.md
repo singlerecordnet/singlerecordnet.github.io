@@ -16,7 +16,16 @@ University of Puerto Rico, Mayagüez Campus
 - Web Development Bootcamp, DevBootcamp, San Francisco, CA (2016)
 
 ## Work History
-
+### Assistant Manager at Domino's Pizza, Winchester, Virginia
+- From March 2022 to Present
+- Counted full inventory daily in order to ascertain relevant information for product resupply orders which occurred 3 times a week,
+- Learned to manage and supervise each store section: makeline, driver dispatch, backend office,
+- Closed and opened store on a weekly basis, ensuring till and daily deposits are completed accurately and successfully,
+- Dealth with customer complaints and follow ups in order to maintain store's good standing.
+### Delivery Expert at Domino's Pizza, Winchester, Virginia
+- From January 2022 to March 2022
+- Completed order delivery requests, ensuring all items are accounted for and pizza ingredients match order,
+- Contributed to the good working order of the store by learning all repeatable tasks
 ### Target Digital Network Analyst at U.S. Army, Fort Meade, Maryland
 - From 2019 to December 2021,
 -	Conducted target development such as open-source research and signals analysis,
@@ -40,7 +49,3 @@ University of Puerto Rico, Mayagüez Campus
 -	Back-end: PHP, Ruby, Qlikview Script, MySQL
 -	Frameworks: Ruby on Rails, WAMP
 -	Languages: Native Spanish, full English, conversational French and Italian.
-
-## PDF Copy of Resume
-
-[Latest Resume](resme.pdf)
