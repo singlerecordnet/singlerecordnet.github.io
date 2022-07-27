@@ -49,3 +49,5 @@ University of Puerto Rico, Mayagüez Campus
 -	Back-end: PHP, Ruby, Qlikview Script, MySQL
 -	Frameworks: Ruby on Rails, WAMP
 -	Languages: Native Spanish, full English, conversational French and Italian.
+
+[Download a PDF Copy of this document](resume.pdf)
