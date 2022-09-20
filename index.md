@@ -21,7 +21,7 @@ University of Puerto Rico, Mayagüez Campus
 - Counted full inventory daily in order to ascertain relevant information for product resupply orders which occurred 3 times a week,
 - Learned to manage and supervise each store section: makeline, driver dispatch, backend office,
 - Closed and opened store on a weekly basis, ensuring till and daily deposits are completed accurately and successfully,
-- Dealth with customer complaints and follow ups in order to maintain store's good standing.
+- Dealt with customer complaints and follow ups in order to maintain store's good standing.
 ### Delivery Expert at Domino's Pizza, Winchester, Virginia
 - From January 2022 to March 2022
 - Completed order delivery requests, ensuring all items are accounted for and pizza ingredients match order,
