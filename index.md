@@ -4,6 +4,12 @@ E-mail: josejuanisaac@gmail.com
 ## Summary
 Software engineer with 10+ years of experience in database design & maintenance, data analytics & visualizations, fullstack web development, and network security analysis. Proven ability to to conduct research in order to produce reports that directly drive organization goals and improve operational processes.
 ## PROFESSIONAL EXPERIENCE
+### Business Intelligence Developer at ClaroPR, San Juan, Puerto Rico
+- From May 2023 to present
+- Designed and built automation and distribution pipeline using Microsoft 365 Services (PowerAutomate, OneDrive, Sharepoint, PowerBI), Windows batch scripts and Oracle/SQLPLUS scripts which featured self-refreshing dashboards, manager administered distribution lists and email notifications. Impact: 5 reports were fully automated which impact at least 3 departments comprised of at least 40 personnel, as well as external sales partners.
+- Built web-based Oracle interface to allow analysts without direct DB access to design their own reports.
+### Delivery Expert at Domino's Pizza, Vega Baja, Puerto Rico
+- From October 2022 to December 2022
 ### Assistant Manager at Domino's Pizza, Winchester, Virginia
 - From March 2022 to August 2022
 - Counted full inventory daily in order to ascertain relevant information for product resupply orders which occurred 3 times a week,
