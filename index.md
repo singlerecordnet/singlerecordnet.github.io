@@ -6,8 +6,9 @@ Software engineer with 10+ years of experience in database design & maintenance,
 ## PROFESSIONAL EXPERIENCE
 ### Business Intelligence Developer at ClaroPR, San Juan, Puerto Rico
 - From May 2023 to present
-- Designed and built automation and distribution pipeline using Microsoft 365 Services (PowerAutomate, OneDrive, Sharepoint, PowerBI), Windows batch scripts and Oracle/SQLPLUS scripts which featured self-refreshing dashboards, manager administered distribution lists and email notifications. Impact: 5 reports were fully automated which impact at least 3 departments comprised of at least 40 personnel, as well as external sales partners.
+- Designed and built automation and distribution pipeline using Microsoft 365 Services (PowerAutomate, OneDrive, Sharepoint, PowerBI), Windows batch scripts and Oracle/SQLPLUS scripts which feature self-refreshing dashboards, manager administered distribution lists and email notifications. Impact: 5 reports were fully automated which impact at least 3 departments comprised of at least 40 personnel, as well as external sales partners.
 - Built web-based Oracle interface to allow analysts without direct DB access to design their own reports.
+- While functioning as the provisionañ email marketing administrator, built a  (as of this writing) self-hosted bitly clone in order to supplement the limited analytics functionality of the in-house email sending application.
 ### Delivery Expert at Domino's Pizza, Vega Baja, Puerto Rico
 - From October 2022 to December 2022
 ### Assistant Manager at Domino's Pizza, Winchester, Virginia
@@ -47,6 +48,7 @@ University of Puerto Rico, Mayagüez Campus
 - Web Development Bootcamp, DevBootcamp, San Francisco, CA (2016)
 ## Additional Skills and Proficiencies
 -	Front-end: HTML, CSS, JavaScript, Qlikview Dashboards, Excel
--	Back-end: PHP, Ruby, Qlikview Script, MySQL
+-	Back-end: PHP, Ruby, Qlikview Script
+-	DB Environments: MySQL, Oracle 11
 -	Frameworks: Ruby on Rails, WAMP
 -	Languages: Native Spanish, full English, conversational French and Italian.
