@@ -1,5 +1,7 @@
 # José Juan Isaac Taveras Lopez
 E-mail: josejuanisaac@gmail.com
+## Versión en español
+[Résume](indice.md)
 ## Summary
 Software engineer with 10+ years of experience in database design & maintenance, data analytics & visualizations, fullstack web development, and network security analysis. Proven ability to conduct research in order to produce reports and that directly drive organization goals and improve operational processes.
 ## PROFESSIONAL EXPERIENCE
