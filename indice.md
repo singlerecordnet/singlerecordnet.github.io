@@ -4,7 +4,7 @@ E-mail: josejuanisaac@gmail.com
 
 # English version
 
-[Résume](index.md)
+[Résume](index.html)
 
 ## Resumen
 
