@@ -7,7 +7,7 @@ Software engineer with 10+ years of experience in database design & maintenance,
 ## PROFESSIONAL EXPERIENCE
 ### Business Intelligence Developer at ClaroPR, San Juan, Puerto Rico
 - From May 2023 to present
-- Designed, tested and built report automation and distribution pipeline using Microsoft 365 Services (PowerAutomate, OneDrive, Sharepoint, PowerBI), Windows batch scripts and Oracle/SQLPLUS scripts which feature self-refreshing dashboards, manager administered distribution lists and email notifications. Impact: 5 reports were fully automated which impact at least 3 departments comprised of at least 40 personnel, as well as external sales partners.
+- Designed, tested and built report automation and distribution pipeline using Microsoft 365 Services (PowerAutomate, OneDrive, Sharepoint, PowerBI), Windows batch scripts and Oracle/SQLPLUS scripts which feature self-refreshing dashboards, manager administered distribution lists and email notifications. Impact: 8 reports were fully automated which impact at least 5 departments comprised of at least 700 personnel, as well as external sales partners.
 - While functioning as the provisional email marketing administrator, built an (as of this writing) self-hosted URL shortening service in order to supplement the functionality of the in-house email marketing application.
 ### Delivery Expert at Domino's Pizza, Vega Baja, Puerto Rico
 - From October 2022 to December 2022
