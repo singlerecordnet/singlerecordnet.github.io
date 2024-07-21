@@ -47,8 +47,9 @@ University of Puerto Rico, Mayagüez Campus
 - Army Analysis and Reporting Course, Goodfellow AFB, San Angelo, TX (2018)
 - Web Development Bootcamp, DevBootcamp, San Francisco, CA (2016)
 ## Additional Skills and Proficiencies
--	Front-end: HTML, CSS, JavaScript, Qlikview Dashboards, Excel
--	Back-end: PHP, Ruby, Qlikview Script
--	DB Environments: MySQL, Oracle 11
--	Frameworks: Ruby on Rails, WAMP
--	Languages: Native Spanish, full English, conversational French and Italian.
+-	Front-end: HTML, CSS, JavaScript
+-	Back-end: PHP/Apache, Ruby/Ruby on Rails
+-	DB Environments: MySQL, Oracle 11, Active Record
+-	Data Orinted: Excel, Power BI, Qlikview
+-	MS 365: PowerAutomate, PowerShell
+-	Languages: Native Spanish, native English, conversational French and Italian.
