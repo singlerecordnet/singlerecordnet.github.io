@@ -8,7 +8,7 @@ E-mail: josejuanisaac@gmail.com
 
 ## Resumen
 
-Ingeniero de computadoras con 15+ años de experiencia en una combinación de desarrollo de software, diseño y mantenimiento de bases de datos, análisis y visualización de datos, desarrollo web fullstack y análisis de seguridad de redes. Capacidad demostrada para realizar investigaciones y producir informes que impulsan diréctamente los objetivos de la organización y mejoran los procesos de la operación.
+Ingeniero de computadoras con 15+ años de experiencia en una combinación de desarrollo de software, diseño y mantenimiento de bases de datos, análisis y visualización de datos, desarrollo web fullstack y análisis de seguridad de redes. Capacidad demostrada para ejecutar investigaciones indepnedientes y producir informes y herramientas que impulsan diréctamente los objetivos de la organización y mejoran los procesos de la operación.
 
 ## EXPERIENCIA PROFESIONAL
 ### Desarrollador de Inteligencia de Negocios en ClaroPR, San Juan, Puerto Rico
