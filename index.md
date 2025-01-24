@@ -1,5 +1,5 @@
 # José Juan Isaac Taveras Lopez
-E-mail: josejuanisaac@gmail.com
+josejuanisaac AT taveraslopez DOT com
 ## Versión en español
 [Résume](indice.html)
 ## Summary
