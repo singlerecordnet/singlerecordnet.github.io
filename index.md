@@ -3,7 +3,7 @@ E-mail: josejuanisaac@gmail.com
 ## Versión en español
 [Résume](indice.html)
 ## Summary
-Software engineer with 15+ years of experience in database design & maintenance, data analytics & visualizations, fullstack web development. Proven ability to conduct research in order to produce reports and that directly drive organization goals and improve operational processes.
+Software engineer with 15+ years of experience in database design & maintenance, data analytics & visualizations, fullstack web development. Proven ability to conduct research in order to produce reports and applications that directly drive organization goals and improve operational processes.
 ## PROFESSIONAL EXPERIENCE
 ### Business Intelligence Developer at ClaroPR, San Juan, Puerto Rico
 - From May 2023 to present
