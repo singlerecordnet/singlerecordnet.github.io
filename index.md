@@ -3,12 +3,13 @@ E-mail: josejuanisaac@gmail.com
 ## Versión en español
 [Résume](indice.html)
 ## Summary
-Software engineer with 10+ years of experience in database design & maintenance, data analytics & visualizations, fullstack web development, and network security analysis. Proven ability to conduct research in order to produce reports and that directly drive organization goals and improve operational processes.
+Software engineer with 15+ years of experience in database design & maintenance, data analytics & visualizations, fullstack web development. Proven ability to conduct research in order to produce reports and that directly drive organization goals and improve operational processes.
 ## PROFESSIONAL EXPERIENCE
 ### Business Intelligence Developer at ClaroPR, San Juan, Puerto Rico
 - From May 2023 to present
 - Designed, tested and built report automation and distribution pipeline using Microsoft 365 Services (PowerAutomate, OneDrive, Sharepoint, PowerBI), Windows batch scripts and Oracle/SQLPLUS scripts which feature self-refreshing dashboards, manager administered distribution lists and email notifications. Impact: 8 reports were fully automated which impact at least 5 departments comprised of at least 700 personnel, as well as external sales partners.
-- While functioning as the provisional email marketing administrator, built an (as of this writing) self-hosted URL shortening service in order to supplement the functionality of the in-house email marketing application.
+- Adopted and improved internal Report Gnerator Web App (RGWA). Available reports increased from 15 reports used by 7 users, to 45 reports used by 25 users across 4 departments. New report development time decreased from 5 days to 1 day to allow time for testing and validation. Designed and maintain daily automation pipeline in order to reduce request processing time.
+- While functioning as the provisional email marketing administrator, built an (as of this writing) self-hosted URL shortening service in order to supplement the functionality of the in-house email marketing application to provide real time updates on campaign KPIs.
 ### Delivery Expert at Domino's Pizza, Vega Baja, Puerto Rico
 - From October 2022 to December 2022
 ### Assistant Manager at Domino's Pizza, Winchester, Virginia
@@ -49,7 +50,7 @@ University of Puerto Rico, Mayagüez Campus
 ## Additional Skills and Proficiencies
 -	Front-end: HTML, CSS, JavaScript
 -	Back-end: PHP/Apache, Ruby/Ruby on Rails
--	DB Environments: MySQL, Oracle 11, Active Record
+-	DB Environments: MySQL, Oracle 11, SQL*Plus, Active Record
 -	Data Orinted: Excel, Power BI, Qlikview
 -	MS 365: PowerAutomate, PowerShell
 -	Languages: Native Spanish, native English, conversational French and Italian.
