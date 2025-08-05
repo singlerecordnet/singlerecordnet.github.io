@@ -69,4 +69,3 @@ Universidad de Puerto Rico, Recinto de Mayagüez
 - Data Oriented: Excel, Power BI, Qlikview
 - MS 365: PowerAutomate, PowerShell
 - Idiomas: Español nativo, inglés nativo, francés e italiano conversacional.
-```
