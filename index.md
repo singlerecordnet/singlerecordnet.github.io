@@ -7,7 +7,7 @@ Software and data engineer with 17 years of experience in database design & main
 ## PROFESSIONAL EXPERIENCE
 ### Business Intelligence Developer at ClaroPR, San Juan, Puerto Rico
 - From May 2023 to present,
-#### Achievements (older to newer)
+#### Achievements (ordered by most recent)
 - obtained 2nd Place 2025 Claro Employee Innovation Awards (Claro Awards): EBLAST Manager - led the project to build custom tool which currently serves as main tool for designing, documenting and approving mass email campaigns,
 - improved Analytics Visibility: While functioning as the technical mass email marketing (EBLAST) administrator, built a self-hosted URL shortening service in order to supplement the functionality of the in-house email provider to provide real time updates on campaign KPIs,
 - improved Reporting Request and Delivery Solution diversity: Designed, tested, built and standardized report automation and distribution pipeline using Microsoft 365 Services (PowerAutomate, OneDrive, Sharepoint, PowerBI), Windows batch scripts and Oracle/SQLPLUS scripts with self-refreshing dashboards, report request owner administered distribution lists and email notifications. Impact: 8 reports were fully automated which support daily operations within 5 departments comprised of at least 700 personnel, including external sales partners,
