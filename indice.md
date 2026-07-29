@@ -7,15 +7,16 @@ josejuanisaac AT taveraslopez DOT com
 
 ## Resumen
 
-Ingeniero de computadoras con 15+ años de experiencia en una combinación de desarrollo de software, diseño y mantenimiento de bases de datos, análisis y visualización de datos, desarrollo web fullstack y análisis de seguridad de redes. Capacidad demostrada para ejecutar investigaciones independientes para producir informes y herramientas que impulsan diréctamente los objetivos de la organización y mejoran los procesos de la operación.
+Inganiero de software y data con 17 años de experiencia en una combinación de desarrollo de software, diseño y mantenimiento de bases de datos, análisis y visualización de datos y desarrollo web fullstack. Capacidad demostrada para ejecutar investigaciones independientes para producir informes y herramientas que impulsan diréctamente los objetivos de la organización y mejoran los procesos de la operación.
 
 ## EXPERIENCIA PROFESIONAL
 ### Desarrollador de Inteligencia de Negocios en ClaroPR, San Juan, Puerto Rico
 - Desde mayo de 2023
-- Diseñar, probar y construir un flujo de generación y distribución de informes automtatizados utilizando los recursos disponibles en un ambiente de Microsoft 365 (PowerAutomate, OneDrive, Sharepoint, PowerBI, PowerShell) y scripts Oracle/SQLPLUS/SQLLDR que incluyen visualizaciones que se actualizan por sí mismas, listas de distribución administradas por su dueño particular y notificaciones por correo electrónico. Impacto: 8 informes que se trabajaban de manera manual y consumían tiempo del personal han sido completamente automatizados, impactando al menos 5 departamentos compuestos por al menos 700 empleados.
-- Adoptar y mejorar una Aplicación Web Generadora de Reportes (AWGR). Impacto: reportes disponibles aumentaron de 15 utilizados por 7 usuarios de 1 departamento, a 45 utilizados por 20 usuarios a través de 4 departamentos.
-- Financiar, construir, correr y administrar un servicio independiente de acortamiento de URLs para suplementar el monitoreo de indicadores de éxito para las campañas de marketing por correo electrónico. Impacto: departamentos pueden monitorear Indicadores Clave de Desempeño (KPIs) con un servicio de autogestión.
-
+#### Logros
+- 2ndo lugar en los premios Innovación Claro 2025 por el proyecto EBLAST Manager - dirigí el equipo para construir una herramienta donde documentamos detalles de campañas y producimos plantillas para Web e Email,
+- financiar, construir, correr y administrar un servicio independiente de acortamiento de URLs para suplementar el monitoreo de indicadores de éxito para las campañas de marketing por correo electrónico. Impacto: departamentos pueden monitorear Indicadores Clave de Desempeño (KPIs) con un servicio de autogestión,
+- adoptar y mejorar una Aplicación Web Generadora de Reportes. Impacto: reportes disponibles aumentaron de 15 utilizados por 7 usuarios de 1 departamento, a 45 utilizados por 20 usuarios a través de 4 departamentos.
+- diseñar, probar y construir un flujo de generación y distribución de informes automtatizados utilizando los recursos disponibles que incluyen dashborads interactivos, listas de distribución administradas por el solicitante y notificaciones por correo electrónico. Impacto: 25 informes han sido completamente automatizados, impactando al menos 5 departamentos compuestos por al menos 700 empleados.
 ### Experto en Entregas en Domino's Pizza, Vega Baja, Puerto Rico
 - Desde octubre de 2022 hasta diciembre de 2022
 
