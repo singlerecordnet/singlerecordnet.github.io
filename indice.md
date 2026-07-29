@@ -13,9 +13,9 @@ Inganiero de software y data con 17 años de experiencia en una combinación de 
 ### Desarrollador de Inteligencia de Negocios en ClaroPR, San Juan, Puerto Rico
 - Desde mayo de 2023
 #### Logros
-- 2ndo lugar en los premios Innovación Claro 2025 por el proyecto EBLAST Manager - dirigí el equipo para construir una herramienta donde documentamos detalles de campañas y producimos plantillas para Web e Email,
-- financiar, construir, correr y administrar un servicio independiente de acortamiento de URLs para suplementar el monitoreo de indicadores de éxito para las campañas de marketing por correo electrónico. Impacto: departamentos pueden monitorear Indicadores Clave de Desempeño (KPIs) con un servicio de autogestión,
-- adoptar y mejorar una Aplicación Web Generadora de Reportes. Impacto: reportes disponibles aumentaron de 15 utilizados por 7 usuarios de 1 departamento, a 45 utilizados por 20 usuarios a través de 4 departamentos.
+- 2ndo lugar en los premios Innovación Claro 2025 - dirigí el equipo para construir una herramienta donde documentamos detalles de campañas masivas y automáticamente producir recursos para Web e Email,
+- construir, correr y administrar un servicio independiente de acortamiento de URLs para suplementar el monitoreo de indicadores de éxito para las campañas de marketing por correo electrónico. Impacto: departamentos pueden monitorear KPIs con un servicio de autogestión,
+- adoptar y mejorar una Aplicación Web Generadora de Reportes. Impacto: reportes disponibles aumentaron de 15 utilizados por 7 usuarios de 1 departamento, a 45 utilizados por 20 usuarios a través de 5 departamentos.
 - diseñar, probar y construir un flujo de generación y distribución de informes automtatizados utilizando los recursos disponibles que incluyen dashborads interactivos, listas de distribución administradas por el solicitante y notificaciones por correo electrónico. Impacto: 25 informes han sido completamente automatizados, impactando al menos 5 departamentos compuestos por al menos 700 empleados.
 ### Experto en Entregas en Domino's Pizza, Vega Baja, Puerto Rico
 - Desde octubre de 2022 hasta diciembre de 2022
