@@ -3,7 +3,7 @@ josejuanisaac AT taveraslopez DOT com
 ## Versión en español
 [Résume](indice.html)
 ## Summary
-Software and data engineer with 15+ years of experience in database design & maintenance, data analytics & visualizations and fullstack web development. Proven ability to conduct self-guided research in order to lead team efforts that directly impact organization goals and create new business opportunities and improve operational processes.
+Software and data engineer with 17 years of experience in database design & maintenance, data analytics & visualizations and fullstack web development. Proven ability to conduct self-guided research in order to lead team efforts that directly impact organization goals and create new business opportunities and improve operational processes.
 ## PROFESSIONAL EXPERIENCE
 ### Business Intelligence Developer at ClaroPR, San Juan, Puerto Rico
 - From May 2023 to present,
