@@ -3,13 +3,15 @@ josejuanisaac AT taveraslopez DOT com
 ## Versión en español
 [Résume](indice.html)
 ## Summary
-Software engineer with 15+ years of experience in database design & maintenance, data analytics & visualizations, fullstack web development. Proven ability to conduct research in order to produce reports and applications that directly drive organization goals and improve operational processes.
+Software and data engineer with 15+ years of experience in database design & maintenance, data analytics & visualizations and fullstack web development. Proven ability to conduct self-guided research in order to lead team efforts that directly impact organization goals and create new business opportunities and improve operational processes.
 ## PROFESSIONAL EXPERIENCE
 ### Business Intelligence Developer at ClaroPR, San Juan, Puerto Rico
 - From May 2023 to present
-- Designed, tested and built report automation and distribution pipeline using Microsoft 365 Services (PowerAutomate, OneDrive, Sharepoint, PowerBI), Windows batch scripts and Oracle/SQLPLUS scripts which feature self-refreshing dashboards, manager administered distribution lists and email notifications. Impact: 8 reports were fully automated which impact at least 5 departments comprised of at least 700 personnel, as well as external sales partners.
-- Adopted and improved internal reporting web-based tool. Available reports increased from 15 reports used by 7 users, to 45 reports used by 25 users across 4 departments. New report development time decreased from 5 days to 1 day to allow time for testing and validation. Implemented composability for all reports where users can pick and choose their desired columns. Designed and maintain daily automation pipeline in order to reduce request processing time.
-- While functioning as the provisional email marketing administrator, built an (as of this writing) self-hosted URL shortening service in order to supplement the functionality of the in-house email marketing application to provide real time updates on campaign KPIs.
+#### Achievements (older to newer)
+- Claro Awards: EBLAST Manager - led the project to build custom tool which currently serves as main tool for designing, documenting and approving mass email campaigns.
+- Improved Analytics Visibility: While functioning as the technical mass email marketing (EBLAST) administrator, built a self-hosted URL shortening service in order to supplement the functionality of the in-house email provider to provide real time updates on campaign KPIs.
+- Improved Reporting Request and Delivery Solutions: Designed, tested and built report automation and distribution pipeline using Microsoft 365 Services (PowerAutomate, OneDrive, Sharepoint, PowerBI), Windows batch scripts and Oracle/SQLPLUS scripts with self-refreshing dashboards, report request owner administered distribution lists and email notifications. Impact: 8 reports were fully automated which support daily operations within 5 departments comprised of at least 700 personnel, including external sales partners.
+- Adopted and improved internal reporting web-based tool: Implemented composability for all reports where users can pick and choose their desired columns. Designed and maintain daily automation pipeline in order to reduce request processing time. Impact: Available reports increased from 15 reports used by 7 users, to 45 reports used by 25 users across 4 departments. New report development time decreased from 10 days to 2 days. Added validation step to report delivery pipeline.
 ### Delivery Expert at Domino's Pizza, Vega Baja, Puerto Rico
 - From October 2022 to December 2022
 ### Assistant Manager at Domino's Pizza, Winchester, Virginia
